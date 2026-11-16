@@ -1,0 +1,1716 @@
+{
+  "schemaVersion": 1,
+  "stations": [
+    {
+      "id": "kan-88",
+      "name": "כאן 88",
+      "aliases": [
+        "88",
+        "88FM",
+        "Kan 88"
+      ],
+      "color": "#b7e36b",
+      "mark": "88",
+      "streamUrl": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_88/live.livx/playlist.m3u8?renditions&fmp4",
+      "format": "hls",
+      "website": "https://www.kan.org.il/live/",
+      "source": "https://www.kan.org.il/live/",
+      "verification": "http-codec-and-decode-verified",
+      "lastChecked": "2026-11-16T07:04:36.613130+00:00"
+    },
+    {
+      "id": "kan-gimel",
+      "name": "כאן גימל",
+      "aliases": [
+        "ג",
+        "רשת ג",
+        "Kan Gimel"
+      ],
+      "color": "#faad78",
+      "mark": "ג",
+      "streamUrl": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_gimel/live.livx/playlist.m3u8?renditions&fmp4",
+      "format": "hls",
+      "website": "https://www.kan.org.il/live/",
+      "source": "https://www.kan.org.il/live/",
+      "verification": "http-codec-and-decode-verified",
+      "lastChecked": "2026-11-16T07:04:36.612564+00:00"
+    },
+    {
+      "id": "kan-bet",
+      "name": "כאן ב׳",
+      "aliases": [
+        "רשת ב",
+        "חדשות",
+        "Kan Bet"
+      ],
+      "color": "#7baefa",
+      "mark": "ב׳",
+      "streamUrl": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_reshet_bet/live.livx/playlist.m3u8?renditions&fmp4",
+      "format": "hls",
+      "website": "https://www.kan.org.il/live/",
+      "source": "https://www.kan.org.il/live/",
+      "verification": "http-codec-and-decode-verified",
+      "lastChecked": "2026-11-16T07:04:36.611699+00:00"
+    },
+    {
+      "id": "radius-100",
+      "name": "רדיוס 100FM",
+      "aliases": [
+        "100",
+        "Radius",
+        "רדיוס"
+      ],
+      "color": "#ff998b",
+      "mark": "100",
+      "streamUrl": "https://cdn.cybercdn.live/Radios_100FM_Website/Audio/icecast.audio",
+      "format": "mp3",
+      "website": "https://www.100fm.co.il/",
+      "source": "https://www.100fm.co.il/wp-content/themes/qs-starter-child/assets/js/player.js",
+      "verification": "http-codec-and-decode-verified",
+      "lastChecked": "2026-11-16T07:04:36.621188+00:00"
+    },
+    {
+      "id": "kan-tarbut",
+      "name": "כאן תרבות",
+      "aliases": [
+        "רשת א",
+        "Kan Tarbut"
+      ],
+      "color": "#d7a2e8",
+      "mark": "א",
+      "streamUrl": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_tarbut/live.livx/playlist.m3u8?renditions&fmp4",
+      "format": "hls",
+      "website": "https://www.kan.org.il/live/",
+      "source": "https://www.kan.org.il/live/",
+      "verification": "http-and-codec-verified",
+      "lastChecked": "2026-11-16T07:04:36.613707+00:00"
+    },
+    {
+      "id": "kan-classical",
+      "name": "כאן קול המוזיקה",
+      "aliases": [
+        "קלאסי",
+        "Kol Hamusica"
+      ],
+      "color": "#d6b77b",
+      "mark": "♪",
+      "streamUrl": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_kol_hamuzika/live.livx/playlist.m3u8?renditions&fmp4",
+      "format": "hls",
+      "website": "https://www.kan.org.il/live/",
+      "source": "https://www.kan.org.il/live/",
+      "verification": "http-and-codec-verified",
+      "lastChecked": "2026-11-16T07:04:36.615830+00:00"
+    },
+    {
+      "id": "kan-moreshet",
+      "name": "כאן מורשת",
+      "aliases": [
+        "מורשת",
+        "Kan Moreshet"
+      ],
+      "color": "#78cbbb",
+      "mark": "מ",
+      "streamUrl": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_moreshet/live.livx/playlist.m3u8?renditions&fmp4",
+      "format": "hls",
+      "website": "https://www.kan.org.il/live/",
+      "source": "https://www.kan.org.il/live/",
+      "verification": "http-and-codec-verified",
+      "lastChecked": "2026-11-16T07:04:36.619670+00:00"
+    },
+    {
+      "id": "kan-reka",
+      "name": "כאן רקע",
+      "aliases": [
+        "REKA",
+        "רוסית"
+      ],
+      "color": "#db9caa",
+      "mark": "ר",
+      "streamUrl": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/kan_reka/live.livx/playlist.m3u8?renditions&fmp4",
+      "format": "hls",
+      "website": "https://www.kan.org.il/live/",
+      "source": "https://www.kan.org.il/live/",
+      "verification": "http-and-codec-verified",
+      "lastChecked": "2026-11-16T07:04:36.614613+00:00"
+    },
+    {
+      "id": "makan",
+      "name": "מכאן",
+      "aliases": [
+        "مكان",
+        "Makan",
+        "ערבית"
+      ],
+      "color": "#abbbd3",
+      "mark": "م",
+      "streamUrl": "https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/radio/radio_makan/live.livx/playlist.m3u8?renditions&fmp4",
+      "format": "hls",
+      "website": "https://www.kan.org.il/live/",
+      "source": "https://www.kan.org.il/live/",
+      "verification": "http-and-codec-verified",
+      "lastChecked": "2026-11-16T07:04:36.616726+00:00"
+    },
+    {
+      "id": "galgalatz",
+      "name": "גלגלצ",
+      "aliases": [
+        "גלגל\"צ",
+        "Galgalatz",
+        "Glglz"
+      ],
+      "mark": "גלגלצ",
+      "color": "#faad78",
+      "streamUrl": "https://api.bynetcdn.com/Redirector/glz/glglz/ICE-LIVE",
+      "format": "mp3",
+      "website": "https://glz.co.il/",
+      "source": "https://www.freqtrail.com/stations/IL",
+      "verification": "http-codec-and-decode-verified-directory-source",
+      "lastChecked": "2026-11-16T10:36:06.536540+00:00"
+    },
+    {
+      "id": "galei-zahal",
+      "name": "גלי צה״ל",
+      "aliases": [
+        "גלצ",
+        "גל\"צ",
+        "Galei Zahal",
+        "Galatz"
+      ],
+      "mark": "גלצ",
+      "color": "#faad78",
+      "streamUrl": "https://glzwizzlv.bynetcdn.com/glz_mp3",
+      "format": "mp3",
+      "website": "https://glz.co.il/",
+      "source": "https://www.freqtrail.com/stations/IL",
+      "verification": "http-codec-and-decode-verified-directory-source",
+      "lastChecked": "2026-11-16T10:36:06.536551+00:00"
+    },
+    {
+      "id": "kol-galim",
+      "name": "רדיו קול גלים",
+      "aliases": [
+        "Kol Galim",
+        "כפר גלים",
+        "106FM"
+      ],
+      "mark": "גלים",
+      "color": "#61cdbb",
+      "streamUrl": "https://live.ecast.co.il/stream/galimlive",
+      "format": "mp3",
+      "website": "https://kol-galim.co.il/",
+      "source": "https://kol-galim.co.il/",
+      "verification": "http-codec-and-decode-verified-official-source",
+      "lastChecked": "2026-11-16T10:38:02.879056+00:00"
+    },
+    {
+      "id": "audioversity",
+      "name": "קול האוניברסיטה 106.2",
+      "aliases": [
+        "קול האוניברסיטה 106.2",
+        "audioversity"
+      ],
+      "color": "#75cbbb",
+      "mark": "קול ",
+      "streamUrl": "https://1062onair.runi.ac.il/idc123.mp3",
+      "format": "mp3",
+      "website": "https://1062fm.co.il/",
+      "source": "https://1062fm.co.il/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:45.377087+00:00"
+    },
+    {
+      "id": "radio-eol",
+      "name": "רדיו מהות החיים",
+      "aliases": [
+        "רדיו מהות החיים",
+        "radio-eol"
+      ],
+      "color": "#75cbbb",
+      "mark": "רדיו",
+      "streamUrl": "https://eol-live.cdnwiz.com/eol/eolmp3/icecast.audio",
+      "format": "mp3",
+      "website": "https://radio.eol.co.il/live/",
+      "source": "https://radio.eol.co.il/live/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:38:08.708364+00:00"
+    },
+    {
+      "id": "kzradio",
+      "name": "רדיו הקצה",
+      "aliases": [
+        "רדיו הקצה",
+        "kzradio"
+      ],
+      "color": "#75cbbb",
+      "mark": "רדיו",
+      "streamUrl": "https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio",
+      "format": "mp3",
+      "website": "https://www.kzradio.net/about",
+      "source": "https://www.kzradio.net/about",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:38:08.708380+00:00"
+    },
+    {
+      "id": "kol-rega",
+      "name": "קול רגע",
+      "aliases": [
+        "קול רגע",
+        "kol-rega"
+      ],
+      "color": "#a9c6e9",
+      "mark": "קול ",
+      "streamUrl": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio",
+      "format": "mp3",
+      "website": "https://96fm.co.il/",
+      "source": "https://96fm.co.il/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:55.182798+00:00"
+    },
+    {
+      "id": "the-best",
+      "name": "לוצ׳שייה 106.4",
+      "aliases": [
+        "לוצ׳שייה 106.4",
+        "the-best"
+      ],
+      "color": "#a9c6e9",
+      "mark": "לוצ׳",
+      "streamUrl": "https://cdna.streamgates.net/TheBest/live/icecast.audio",
+      "format": "mp3",
+      "website": "https://96fm.co.il/",
+      "source": "https://96fm.co.il/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:55.183274+00:00"
+    },
+    {
+      "id": "lev-hamedina",
+      "name": "לב המדינה 91",
+      "aliases": [
+        "לב המדינה 91",
+        "lev-hamedina"
+      ],
+      "color": "#a9c6e9",
+      "mark": "לב ה",
+      "streamUrl": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+      "format": "mp3",
+      "website": "https://91fm.co.il/",
+      "source": "https://91fm.co.il/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:55.183757+00:00"
+    },
+    {
+      "id": "tzafon-1045",
+      "name": "צפון 104.5",
+      "aliases": [
+        "צפון 104.5",
+        "tzafon-1045"
+      ],
+      "color": "#a9c6e9",
+      "mark": "צפון",
+      "streamUrl": "https://cdn.cybercdn.live/Tzafon_NonStop/Live_Audio/icecast.audio",
+      "format": "aac",
+      "website": "https://1045fm.maariv.co.il/include/OnLineView.aspx",
+      "source": "https://1045fm.maariv.co.il/include/OnLineView.aspx",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:55.184241+00:00"
+    },
+    {
+      "id": "radio-90",
+      "name": "רדיו 90",
+      "aliases": [
+        "רדיו 90",
+        "radio-90"
+      ],
+      "color": "#a9c6e9",
+      "mark": "רדיו",
+      "streamUrl": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio",
+      "format": "aac",
+      "website": "https://90fm.co.il/",
+      "source": "https://90fm.co.il/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:55.184570+00:00"
+    },
+    {
+      "id": "radio-1",
+      "name": "רדיו 1",
+      "aliases": [
+        "רדיו 1",
+        "radio-1"
+      ],
+      "color": "#a9c6e9",
+      "mark": "רדיו",
+      "streamUrl": "https://radio.streamgates.net/stream/radio1",
+      "format": "aac",
+      "website": "https://90fm.co.il/",
+      "source": "https://90fm.co.il/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:55.184798+00:00"
+    },
+    {
+      "id": "103fm",
+      "name": "רדיו 103FM",
+      "aliases": [
+        "Radio 103FM",
+        "103fm"
+      ],
+      "color": "#a9c6e9",
+      "mark": "רדיו",
+      "streamUrl": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
+      "format": "mp3",
+      "website": "https://www.freqtrail.com/stations/IL",
+      "source": "https://103fm.maariv.co.il/include/OnLineView.aspx",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:39:09.240948+00:00"
+    },
+    {
+      "id": "ashams",
+      "name": "רדיו א־שמס",
+      "aliases": [
+        "اذاعة الشمس - A-Shams",
+        "ashams"
+      ],
+      "color": "#a9c6e9",
+      "mark": "רדיו",
+      "streamUrl": "https://cdna.streamgates.net/Ashams/Live/icecast.audio",
+      "format": "aac",
+      "website": "https://www.freqtrail.com/stations/IL",
+      "source": "https://www.freqtrail.com/stations/IL",
+      "verification": "http-codec-verified-directory-source",
+      "lastChecked": "2026-11-16T10:39:09.241267+00:00"
+    },
+    {
+      "id": "galei-israel",
+      "name": "גלי ישראל",
+      "aliases": [
+        "94fm רדיו גלי ישראל",
+        "galei-israel"
+      ],
+      "color": "#a9c6e9",
+      "mark": "גלי ",
+      "streamUrl": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+      "format": "mp3",
+      "website": "https://www.freqtrail.com/stations/IL",
+      "source": "https://www.freqtrail.com/stations/IL",
+      "verification": "http-codec-verified-directory-source",
+      "lastChecked": "2026-11-16T10:39:09.241497+00:00"
+    },
+    {
+      "id": "eco99",
+      "name": "אקו 99FM",
+      "aliases": [
+        "ECO99FM",
+        "eco99"
+      ],
+      "color": "#a9c6e9",
+      "mark": "אקו ",
+      "streamUrl": "https://eco01.livecdn.biz/ecolive/99fm_aac/icecast.audio",
+      "format": "aac",
+      "website": "https://eco99fm.maariv.co.il/",
+      "source": "https://eco99fm.maariv.co.il/main-es2015.0596ce17492fb272a097.js",
+      "verification": "http-codec-and-decode-verified-official-source",
+      "lastChecked": "2026-11-16T21:51:15.307758+00:00"
+    },
+    {
+      "id": "tel-aviv-102",
+      "name": "רדיו תל אביב 102FM",
+      "aliases": [
+        "תל אביב Tel Aviv 102FM",
+        "tel-aviv-102"
+      ],
+      "color": "#a9c6e9",
+      "mark": "רדיו",
+      "streamUrl": "https://102.livecdn.biz/102fm_aac",
+      "format": "aac",
+      "website": "https://www.freqtrail.com/stations/IL",
+      "source": "https://www.freqtrail.com/stations/IL",
+      "verification": "http-codec-verified-directory-source",
+      "lastChecked": "2026-11-16T10:39:09.242447+00:00"
+    },
+    {
+      "id": "haifa",
+      "name": "רדיו חיפה",
+      "aliases": [
+        "Radio Haifa רדיו חיפה",
+        "haifa"
+      ],
+      "color": "#a9c6e9",
+      "mark": "רדיו",
+      "streamUrl": "https://1075.livecdn.biz/radiohaifa",
+      "format": "aac",
+      "website": "https://www.freqtrail.com/stations/IL",
+      "source": "https://www.freqtrail.com/stations/IL",
+      "verification": "http-codec-verified-directory-source",
+      "lastChecked": "2026-11-16T10:39:09.242830+00:00"
+    },
+    {
+      "id": "kol-play",
+      "name": "קול פליי",
+      "aliases": [
+        "קול פליי | kol-play",
+        "kol-play"
+      ],
+      "color": "#a9c6e9",
+      "mark": "קול ",
+      "streamUrl": "https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio",
+      "format": "aac",
+      "website": "https://www.freqtrail.com/stations/IL",
+      "source": "https://www.freqtrail.com/stations/IL",
+      "verification": "http-codec-verified-directory-source",
+      "lastChecked": "2026-11-16T10:39:09.243270+00:00"
+    },
+    {
+      "id": "kol-chai",
+      "name": "קול חי",
+      "aliases": [
+        "קול חי - Kol Chai",
+        "kol-chai"
+      ],
+      "color": "#a9c6e9",
+      "mark": "קול ",
+      "streamUrl": "https://media2.93fm.co.il/live-new",
+      "format": "mp3",
+      "website": "https://www.freqtrail.com/stations/IL",
+      "source": "https://www.freqtrail.com/stations/IL",
+      "verification": "http-codec-verified-directory-source",
+      "lastChecked": "2026-11-16T10:39:19.445838+00:00"
+    },
+    {
+      "id": "kol-chai-music",
+      "name": "קול חי מיוזיק",
+      "aliases": [
+        "קול חי מיוזיק - Kol Chai Music",
+        "kol-chai-music"
+      ],
+      "color": "#a9c6e9",
+      "mark": "קול ",
+      "streamUrl": "https://media2.93fm.co.il/livemusic",
+      "format": "aac",
+      "website": "https://www.freqtrail.com/stations/IL",
+      "source": "https://www.freqtrail.com/stations/IL",
+      "verification": "http-codec-verified-directory-source",
+      "lastChecked": "2026-11-16T10:39:19.480944+00:00"
+    },
+    {
+      "id": "nostalgia-963",
+      "name": "רדיוס נוסטלגי 96.3",
+      "aliases": [
+        "Radios Nostalgia 96.3FM (רדיוס נוסטלגי)",
+        "nostalgia-963"
+      ],
+      "color": "#a9c6e9",
+      "mark": "רדיו",
+      "streamUrl": "https://cdna.streamgates.net/radios-audio/Nostalgia_963fm/icecast.audio",
+      "format": "mp3",
+      "website": "https://www.freqtrail.com/stations/IL",
+      "source": "https://www.freqtrail.com/stations/IL",
+      "verification": "http-codec-verified-directory-source",
+      "lastChecked": "2026-11-16T10:39:20.113124+00:00"
+    },
+    {
+      "id": "hatachana",
+      "name": "התחנה 101.5",
+      "aliases": [
+        "התחנה 101.5",
+        "hatachana"
+      ],
+      "color": "#a9c6e9",
+      "mark": "התחנ",
+      "streamUrl": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio",
+      "format": "aac",
+      "website": "https://tingfm.com/radio/26300",
+      "source": "https://tingfm.com/radio/26300",
+      "verification": "http-codec-verified-directory-source",
+      "lastChecked": "2026-11-16T10:39:20.155273+00:00"
+    },
+    {
+      "id": "kol-barama",
+      "name": "קול ברמה",
+      "aliases": [
+        "קול ברמה",
+        "kol-barama"
+      ],
+      "color": "#a9c6e9",
+      "mark": "קול ",
+      "streamUrl": "https://cdn.cybercdn.live/Kol_Barama/Live_Audio/icecast.audio",
+      "format": "aac",
+      "website": "https://mitmachim.top/topic/47859/",
+      "source": "https://mitmachim.top/topic/47859/",
+      "verification": "http-codec-verified-directory-source",
+      "lastChecked": "2026-11-16T10:39:20.199906+00:00"
+    },
+    {
+      "id": "pervoye-891",
+      "name": "פרוויה 89.1",
+      "aliases": [
+        "Первое радио",
+        "Pervoye",
+        "Pervoia",
+        "89.1"
+      ],
+      "color": "#f5ba76",
+      "mark": "89.1",
+      "streamUrl": "https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio",
+      "format": "mp3",
+      "website": "https://www.891fm.co.il/",
+      "source": "https://www.891fm.co.il/",
+      "verification": "http-codec-and-decode-verified-official-source",
+      "lastChecked": "2026-11-16T10:46:48.555502+00:00"
+    },
+    {
+      "id": "joint-reggae",
+      "name": "Joint Radio Reggae",
+      "aliases": [
+        "ג׳וינט",
+        "reggae"
+      ],
+      "color": "#aacc77",
+      "mark": "Regg",
+      "streamUrl": "https://jointil.com/stream-reggae",
+      "format": "mp3",
+      "website": "https://www.jointil.com/",
+      "source": "https://www.jointil.com/",
+      "verification": "http-codec-and-decode-verified-official-source",
+      "lastChecked": "2026-11-16T10:47:39.578297+00:00"
+    },
+    {
+      "id": "joint-blues",
+      "name": "Joint Radio Blues",
+      "aliases": [
+        "ג׳וינט",
+        "blues"
+      ],
+      "color": "#aacc77",
+      "mark": "Blue",
+      "streamUrl": "https://jointil.com/stream-blues",
+      "format": "mp3",
+      "website": "https://www.jointil.com/",
+      "source": "https://www.jointil.com/",
+      "verification": "http-codec-and-decode-verified-official-source",
+      "lastChecked": "2026-11-16T10:47:39.578312+00:00"
+    },
+    {
+      "id": "joint-beat",
+      "name": "Joint Radio Beat",
+      "aliases": [
+        "ג׳וינט",
+        "beat"
+      ],
+      "color": "#aacc77",
+      "mark": "Beat",
+      "streamUrl": "https://jointil.com/stream-beat",
+      "format": "mp3",
+      "website": "https://www.jointil.com/",
+      "source": "https://www.jointil.com/",
+      "verification": "http-codec-and-decode-verified-official-source",
+      "lastChecked": "2026-11-16T10:47:39.578315+00:00"
+    },
+    {
+      "id": "nas-radio",
+      "name": "רדיו נאס 103.3",
+      "aliases": [
+        "Nas Radio",
+        "راديو الناس",
+        "107.8",
+        "א-נאס"
+      ],
+      "color": "#ea5c6a",
+      "mark": "NAS",
+      "streamUrl": "https://live1.nasapp.net/nas/live_audio.m3u8",
+      "format": "hls",
+      "website": "https://www.nasapp.net/",
+      "source": "https://www.nasapp.net/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:48:25.309575+00:00"
+    },
+    {
+      "id": "jerusalem",
+      "name": "רדיו ירושלים 101FM",
+      "aliases": [
+        "101fm radio jerusalem ",
+        "jerusalem"
+      ],
+      "mark": "101FM",
+      "color": "#e6c090",
+      "streamUrl": "https://radio.streamgates.net/stream/101fm",
+      "format": "aac",
+      "website": "https://www.freqtrail.com/stations/IL",
+      "source": "https://www.freqtrail.com/stations/IL",
+      "verification": "http-codec-and-decode-verified-directory-source",
+      "lastChecked": "2026-11-16T10:46:35.829827+00:00"
+    },
+    {
+      "id": "darom-97",
+      "name": "רדיו דרום 97",
+      "aliases": [
+        "רדיו דרום 97",
+        "darom-97"
+      ],
+      "mark": "97",
+      "color": "#e6c090",
+      "streamUrl": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
+      "format": "mp3",
+      "website": "https://api.instant.audio/data/streams/137/darom",
+      "source": "https://api.instant.audio/data/streams/137/darom",
+      "verification": "http-codec-and-decode-verified-directory-source",
+      "lastChecked": "2026-11-16T10:46:36.007228+00:00"
+    },
+    {
+      "id": "darom-1015",
+      "name": "רדיו דרום 101.5",
+      "aliases": [
+        "דרום 101.5",
+        "darom-1015"
+      ],
+      "mark": "101.5",
+      "color": "#e6c090",
+      "streamUrl": "https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio",
+      "format": "aac",
+      "website": "https://www.rcast.net/dir?p=1370&q=no&s=2",
+      "source": "https://www.rcast.net/dir?p=1370&q=no&s=2",
+      "verification": "http-codec-and-decode-verified-directory-source",
+      "lastChecked": "2026-11-16T10:46:36.174818+00:00"
+    },
+    {
+      "id": "eilat",
+      "name": "רדיו אילת 102",
+      "aliases": [
+        "רדיו אילת 102",
+        "eilat"
+      ],
+      "mark": "102",
+      "color": "#e6c090",
+      "streamUrl": "https://cdn.cybercdn.live/Eilat_Radio/Live/icecast.audio",
+      "format": "mp3",
+      "website": "https://api.instant.audio/data/streams/137/fm-102",
+      "source": "https://api.instant.audio/data/streams/137/fm-102",
+      "verification": "http-codec-and-decode-verified-directory-source",
+      "lastChecked": "2026-11-16T10:46:36.325578+00:00"
+    },
+    {
+      "id": "hamesh-995",
+      "name": "רדיו חם אש 99.5",
+      "aliases": [
+        "Ham Esh",
+        "Haifa99.5",
+        "חמש",
+        "99.5"
+      ],
+      "color": "#f29b51",
+      "mark": "99.5",
+      "streamUrl": "https://995.livecdn.biz/995fm",
+      "format": "aac",
+      "website": "https://995.co.il/",
+      "source": "https://995.co.il/_next/static/chunks/6660-4163996bb6cb32a1.js",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:48:53.800818+00:00"
+    },
+    {
+      "id": "radius-digital-hits",
+      "name": "100% Hits",
+      "aliases": [
+        "100% Hits",
+        "hits"
+      ],
+      "color": "#75cbbb",
+      "mark": "Hits",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Hits/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:01.096371+00:00"
+    },
+    {
+      "id": "radius-digital-tomer",
+      "name": "Tomer Maizner",
+      "aliases": [
+        "Tomer Maizner",
+        "tomer"
+      ],
+      "color": "#75cbbb",
+      "mark": "Tome",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Tomer/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:01.096753+00:00"
+    },
+    {
+      "id": "radius-digital-hospital",
+      "name": "Loewenstein",
+      "aliases": [
+        "Loewenstein",
+        "hospital"
+      ],
+      "color": "#75cbbb",
+      "mark": "Loew",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Hospital/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:01.097106+00:00"
+    },
+    {
+      "id": "radius-digital-vip",
+      "name": "Vip Digital",
+      "aliases": [
+        "Vip Digital",
+        "vip"
+      ],
+      "color": "#75cbbb",
+      "mark": "Vip ",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Vip/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:01.097521+00:00"
+    },
+    {
+      "id": "radius-digital-kids",
+      "name": "100% Kids",
+      "aliases": [
+        "100% Kids",
+        "kids"
+      ],
+      "color": "#75cbbb",
+      "mark": "Kids",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Kids/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:01.098282+00:00"
+    },
+    {
+      "id": "radius-digital-italian",
+      "name": "100% Italian",
+      "aliases": [
+        "100% Italian",
+        "italian"
+      ],
+      "color": "#75cbbb",
+      "mark": "Ital",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Italian/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:01.098931+00:00"
+    },
+    {
+      "id": "radius-digital-shlomo",
+      "name": "100% שלמה ארצי",
+      "aliases": [
+        "100% שלמה ארצי",
+        "shlomo"
+      ],
+      "color": "#75cbbb",
+      "mark": "שלמה",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Shlomo/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:01.099117+00:00"
+    },
+    {
+      "id": "radius-digital-top40",
+      "name": "100% Top40",
+      "aliases": [
+        "100% Top40",
+        "top40"
+      ],
+      "color": "#75cbbb",
+      "mark": "Top4",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Top40/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:17.766040+00:00"
+    },
+    {
+      "id": "radius-digital-legends",
+      "name": "100% Legends",
+      "aliases": [
+        "100% Legends",
+        "legends"
+      ],
+      "color": "#75cbbb",
+      "mark": "Lege",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Legends/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:17.768914+00:00"
+    },
+    {
+      "id": "radius-digital-workout",
+      "name": "100% Workout",
+      "aliases": [
+        "100% Workout",
+        "workout"
+      ],
+      "color": "#75cbbb",
+      "mark": "Work",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Workout/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:17.769323+00:00"
+    },
+    {
+      "id": "radius-digital-standup",
+      "name": "100% Stand-up",
+      "aliases": [
+        "100% Stand-up",
+        "standup"
+      ],
+      "color": "#75cbbb",
+      "mark": "Stan",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100StandUp/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:17.769612+00:00"
+    },
+    {
+      "id": "radius-digital-retro",
+      "name": "100% Retro",
+      "aliases": [
+        "100% Retro",
+        "retro"
+      ],
+      "color": "#75cbbb",
+      "mark": "Retr",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Retro/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:17.769963+00:00"
+    },
+    {
+      "id": "radius-digital-yehudi",
+      "name": "100% יהודי",
+      "aliases": [
+        "100% יהודי",
+        "yehudi"
+      ],
+      "color": "#75cbbb",
+      "mark": "יהוד",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100yehudi/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:17.775183+00:00"
+    },
+    {
+      "id": "radius-digital-hot",
+      "name": "ים תיכוני לוהט",
+      "aliases": [
+        "ים תיכוני לוהט",
+        "hot"
+      ],
+      "color": "#75cbbb",
+      "mark": "ים ת",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/91Hot/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:18.272244+00:00"
+    },
+    {
+      "id": "radius-digital-britpop",
+      "name": "100% Brit Pop",
+      "aliases": [
+        "100% Brit Pop",
+        "britpop"
+      ],
+      "color": "#75cbbb",
+      "mark": "Brit",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Britpop/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:23.119820+00:00"
+    },
+    {
+      "id": "radius-digital-s90",
+      "name": "100% 90's",
+      "aliases": [
+        "100% 90's",
+        "s90"
+      ],
+      "color": "#75cbbb",
+      "mark": "90's",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/10090s/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:34.807886+00:00"
+    },
+    {
+      "id": "radius-digital-s80",
+      "name": "100% 80's",
+      "aliases": [
+        "100% 80's",
+        "s80"
+      ],
+      "color": "#75cbbb",
+      "mark": "80's",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/10080s/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:34.808788+00:00"
+    },
+    {
+      "id": "radius-digital-s70",
+      "name": "100% 70's",
+      "aliases": [
+        "100% 70's",
+        "s70"
+      ],
+      "color": "#75cbbb",
+      "mark": "70's",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/10070s/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:34.812996+00:00"
+    },
+    {
+      "id": "radius-digital-no1",
+      "name": "100% No.1",
+      "aliases": [
+        "100% No.1",
+        "no1"
+      ],
+      "color": "#75cbbb",
+      "mark": "No.1",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Number1/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:34.813784+00:00"
+    },
+    {
+      "id": "radius-digital-oldies",
+      "name": "100% Oldies",
+      "aliases": [
+        "100% Oldies",
+        "oldies"
+      ],
+      "color": "#75cbbb",
+      "mark": "Oldi",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Oldies/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:34.817037+00:00"
+    },
+    {
+      "id": "radius-digital-chillout",
+      "name": "100% Chillout",
+      "aliases": [
+        "100% Chillout",
+        "chillout"
+      ],
+      "color": "#75cbbb",
+      "mark": "Chil",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Chillout/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:34.822197+00:00"
+    },
+    {
+      "id": "radius-digital-world",
+      "name": "100% World Music",
+      "aliases": [
+        "100% World Music",
+        "world"
+      ],
+      "color": "#75cbbb",
+      "mark": "Worl",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100World/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:34.827198+00:00"
+    },
+    {
+      "id": "radius-digital-club",
+      "name": "100% Club",
+      "aliases": [
+        "100% Club",
+        "club"
+      ],
+      "color": "#75cbbb",
+      "mark": "Club",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Club/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:39.238145+00:00"
+    },
+    {
+      "id": "radius-digital-blues",
+      "name": "100% Blues",
+      "aliases": [
+        "100% Blues",
+        "blues"
+      ],
+      "color": "#75cbbb",
+      "mark": "Blue",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Blues/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:47.948113+00:00"
+    },
+    {
+      "id": "radius-digital-deep",
+      "name": "100% Deep",
+      "aliases": [
+        "100% Deep",
+        "deep"
+      ],
+      "color": "#75cbbb",
+      "mark": "Deep",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Deep/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:47.948458+00:00"
+    },
+    {
+      "id": "radius-digital-disney",
+      "name": "100% Disney",
+      "aliases": [
+        "100% Disney",
+        "disney"
+      ],
+      "color": "#75cbbb",
+      "mark": "Disn",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Disney/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:47.948946+00:00"
+    },
+    {
+      "id": "radius-digital-greek",
+      "name": "100% Greek",
+      "aliases": [
+        "100% Greek",
+        "greek"
+      ],
+      "color": "#75cbbb",
+      "mark": "Gree",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Greek/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:47.949375+00:00"
+    },
+    {
+      "id": "radius-digital-2000s",
+      "name": "100% 2000s",
+      "aliases": [
+        "100% 2000s",
+        "2000s"
+      ],
+      "color": "#75cbbb",
+      "mark": "2000",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/1002000s/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:47.950061+00:00"
+    },
+    {
+      "id": "radius-digital-classicrock",
+      "name": "100% Classic Rock",
+      "aliases": [
+        "100% Classic Rock",
+        "classicrock"
+      ],
+      "color": "#75cbbb",
+      "mark": "Clas",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100ClassicRock/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:47.950469+00:00"
+    },
+    {
+      "id": "radius-digital-trance",
+      "name": "100% Trance",
+      "aliases": [
+        "100% Trance",
+        "trance"
+      ],
+      "color": "#75cbbb",
+      "mark": "Tran",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Trance/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:48.405355+00:00"
+    },
+    {
+      "id": "radius-digital-country",
+      "name": "100% Country",
+      "aliases": [
+        "100% Country",
+        "country"
+      ],
+      "color": "#75cbbb",
+      "mark": "Coun",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Country/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:36:54.079825+00:00"
+    },
+    {
+      "id": "radius-digital-karaoke",
+      "name": "100% Karaoke",
+      "aliases": [
+        "100% Karaoke",
+        "karaoke"
+      ],
+      "color": "#75cbbb",
+      "mark": "Kara",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100karaoke/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:02.465658+00:00"
+    },
+    {
+      "id": "radius-digital-russian",
+      "name": "100% Russian",
+      "aliases": [
+        "100% Russian",
+        "russian"
+      ],
+      "color": "#75cbbb",
+      "mark": "Russ",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/891Digital/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:02.469288+00:00"
+    },
+    {
+      "id": "radius-digital-mizrachit",
+      "name": "100% Mizrachit",
+      "aliases": [
+        "100% Mizrachit",
+        "mizrachit"
+      ],
+      "color": "#75cbbb",
+      "mark": "Mizr",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Mizrachit/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:02.469575+00:00"
+    },
+    {
+      "id": "radius-digital-france",
+      "name": "100% France",
+      "aliases": [
+        "100% France",
+        "france"
+      ],
+      "color": "#75cbbb",
+      "mark": "Fran",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100France/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:02.469625+00:00"
+    },
+    {
+      "id": "radius-digital-ccovers",
+      "name": "100% Covers",
+      "aliases": [
+        "100% Covers",
+        "ccovers"
+      ],
+      "color": "#75cbbb",
+      "mark": "Cove",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Covers/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:02.472969+00:00"
+    },
+    {
+      "id": "radius-digital-dance",
+      "name": "100% Dance",
+      "aliases": [
+        "100% Dance",
+        "dance"
+      ],
+      "color": "#75cbbb",
+      "mark": "Danc",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Dance/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:02.473386+00:00"
+    },
+    {
+      "id": "radius-digital-djset",
+      "name": "100% DJSet",
+      "aliases": [
+        "100% DJSet",
+        "djset"
+      ],
+      "color": "#75cbbb",
+      "mark": "DJSe",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Djset/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:02.484242+00:00"
+    },
+    {
+      "id": "radius-digital-hiphop",
+      "name": "100% Hiphop",
+      "aliases": [
+        "100% Hiphop",
+        "hiphop"
+      ],
+      "color": "#75cbbb",
+      "mark": "Hiph",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Hiphop/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:06.061834+00:00"
+    },
+    {
+      "id": "radius-digital-latin",
+      "name": "100% Latin",
+      "aliases": [
+        "100% Latin",
+        "latin"
+      ],
+      "color": "#75cbbb",
+      "mark": "Lati",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Latin/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:19.227847+00:00"
+    },
+    {
+      "id": "radius-digital-jazz",
+      "name": "100% Jazz",
+      "aliases": [
+        "100% Jazz",
+        "jazz"
+      ],
+      "color": "#75cbbb",
+      "mark": "Jazz",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Jazz/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:19.235970+00:00"
+    },
+    {
+      "id": "radius-digital-history",
+      "name": "עושים היסטוריה",
+      "aliases": [
+        "עושים היסטוריה",
+        "history"
+      ],
+      "color": "#75cbbb",
+      "mark": "עושי",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100History/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:19.237196+00:00"
+    },
+    {
+      "id": "radius-digital-relax",
+      "name": "100% Relax",
+      "aliases": [
+        "100% Relax",
+        "relax"
+      ],
+      "color": "#75cbbb",
+      "mark": "Rela",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Relax/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:19.238696+00:00"
+    },
+    {
+      "id": "radius-digital-tiktok",
+      "name": "100% TikTok",
+      "aliases": [
+        "100% TikTok",
+        "tiktok"
+      ],
+      "color": "#75cbbb",
+      "mark": "TikT",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Tiktok/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:19.239311+00:00"
+    },
+    {
+      "id": "radius-digital-kpop",
+      "name": "100% K-Pop",
+      "aliases": [
+        "100% K-Pop",
+        "kpop"
+      ],
+      "color": "#75cbbb",
+      "mark": "K-Po",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100kpop/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:19.243320+00:00"
+    },
+    {
+      "id": "radius-digital-gamer",
+      "name": "100% Gamer",
+      "aliases": [
+        "100% Gamer",
+        "gamer"
+      ],
+      "color": "#75cbbb",
+      "mark": "Game",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Gamer/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:19.245837+00:00"
+    },
+    {
+      "id": "radius-digital-live",
+      "name": "100% Live",
+      "aliases": [
+        "100% Live",
+        "live"
+      ],
+      "color": "#75cbbb",
+      "mark": "Live",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Live/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:23.137782+00:00"
+    },
+    {
+      "id": "radius-digital-taklitia",
+      "name": "ספיישל שבוע הגאווה",
+      "aliases": [
+        "ספיישל שבוע הגאווה",
+        "taklitia"
+      ],
+      "color": "#75cbbb",
+      "mark": "ספיי",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Taklitia/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:30.939182+00:00"
+    },
+    {
+      "id": "radius-digital-movies",
+      "name": "100% Movies",
+      "aliases": [
+        "100% Movies",
+        "movies"
+      ],
+      "color": "#75cbbb",
+      "mark": "Movi",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Movies/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:30.941354+00:00"
+    },
+    {
+      "id": "radius-digital-special",
+      "name": "Special Eurovision",
+      "aliases": [
+        "Special Eurovision",
+        "special"
+      ],
+      "color": "#75cbbb",
+      "mark": "Spec",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Special/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:30.941924+00:00"
+    },
+    {
+      "id": "radius-digital-rock",
+      "name": "100% Rock",
+      "aliases": [
+        "100% Rock",
+        "rock"
+      ],
+      "color": "#75cbbb",
+      "mark": "Rock",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Rock/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:30.944218+00:00"
+    },
+    {
+      "id": "radius-digital-cafe",
+      "name": "100% Café",
+      "aliases": [
+        "100% Café",
+        "cafe"
+      ],
+      "color": "#75cbbb",
+      "mark": "Café",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Cafe/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:30.953300+00:00"
+    },
+    {
+      "id": "radius-digital-hafla",
+      "name": "100% Hafla",
+      "aliases": [
+        "100% Hafla",
+        "hafla"
+      ],
+      "color": "#75cbbb",
+      "mark": "Hafl",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/91fm_digital_Hafla/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:30.960420+00:00"
+    },
+    {
+      "id": "radius-digital-classic",
+      "name": "100% Classic",
+      "aliases": [
+        "100% Classic",
+        "classic"
+      ],
+      "color": "#75cbbb",
+      "mark": "Clas",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Classic/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:31.428532+00:00"
+    },
+    {
+      "id": "radius-digital-stars",
+      "name": "ערוץ הילדים",
+      "aliases": [
+        "ערוץ הילדים",
+        "stars"
+      ],
+      "color": "#75cbbb",
+      "mark": "ערוץ",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Stars/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:36.062610+00:00"
+    },
+    {
+      "id": "radius-digital-nostalgia",
+      "name": "100% Nostalgia",
+      "aliases": [
+        "100% Nostalgia",
+        "nostalgia"
+      ],
+      "color": "#75cbbb",
+      "mark": "Nost",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Nostalgia/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:45.345309+00:00"
+    },
+    {
+      "id": "radius-digital-israeli",
+      "name": "100% Israeli",
+      "aliases": [
+        "100% Israeli",
+        "israeli"
+      ],
+      "color": "#75cbbb",
+      "mark": "Isra",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Israeli/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:45.348094+00:00"
+    },
+    {
+      "id": "radius-digital-drivetime",
+      "name": "100% Drivetime",
+      "aliases": [
+        "100% Drivetime",
+        "drivetime"
+      ],
+      "color": "#75cbbb",
+      "mark": "Driv",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Drivetime/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:45.363811+00:00"
+    },
+    {
+      "id": "radius-digital-selfie",
+      "name": "100% Selfie",
+      "aliases": [
+        "100% Selfie",
+        "selfie"
+      ],
+      "color": "#75cbbb",
+      "mark": "Self",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Selfie/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:45.364226+00:00"
+    },
+    {
+      "id": "radius-digital-love",
+      "name": "100% Love",
+      "aliases": [
+        "100% Love",
+        "love"
+      ],
+      "color": "#75cbbb",
+      "mark": "Love",
+      "streamUrl": "https://gb25.streamgates.net/radios-audio/100Love/playlist.m3u8",
+      "format": "hls",
+      "website": "https://digital.100fm.co.il/",
+      "source": "https://digital.100fm.co.il/app/",
+      "verification": "http-codec-verified",
+      "lastChecked": "2026-11-16T10:37:45.371159+00:00"
+    },
+    {
+      "id": "kol-hashfela",
+      "name": "רדיו קול השפלה",
+      "aliases": [
+        "קול השפלה",
+        "kol-hashfela"
+      ],
+      "color": "#8dc9ba",
+      "mark": "שפלה",
+      "streamUrl": "https://radio.streamgates.net/stream/1036kh",
+      "format": "aac",
+      "website": "https://www.1036kh.com/",
+      "source": "https://www.1036kh.com/",
+      "verification": "http-codec-and-decode-verified",
+      "lastChecked": "2026-11-16T12:11:12.482580+00:00"
+    },
+    {
+      "id": "kol-yezreel",
+      "name": "רדיו קול יזרעאל",
+      "aliases": [
+        "קול יזרעאל",
+        "kol-yezreel"
+      ],
+      "color": "#8dc9ba",
+      "mark": "יזרעאל",
+      "streamUrl": "https://radio.streamgates.net/stream/yezreel",
+      "format": "mp3",
+      "website": "https://radiokolyezreel.co.il/",
+      "source": "https://radiokolyezreel.co.il/",
+      "verification": "http-codec-and-decode-verified",
+      "lastChecked": "2026-11-16T12:11:12.482582+00:00"
+    },
+    {
+      "id": "kol-kinneret",
+      "name": "רדיו קול הכנרת",
+      "aliases": [
+        "קול הכנרת",
+        "kol-kinneret"
+      ],
+      "color": "#8dc9ba",
+      "mark": "כנרת",
+      "streamUrl": "https://radio.streamgates.net/stream/kinneret",
+      "format": "mp3",
+      "website": "https://do.kinneret.ac.il/kol-kinneret-radio-2/",
+      "source": "https://do.kinneret.ac.il/kol-kinneret-radio-2/",
+      "verification": "http-codec-and-decode-verified",
+      "lastChecked": "2026-11-16T12:11:12.482587+00:00"
+    }
+  ]
+}
